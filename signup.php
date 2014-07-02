@@ -44,7 +44,7 @@
 				<input type="text" class="input_acts" style="height:30px" placeholder="un p'tit foot ?">
 				<input type="text" class="input_acts" style="height:30px" placeholder="un ciné ?">
 			</div>
-			<button type="submit" id="signup_button">Finaliser l'inscription</button>
+			<button type="submit" id="signup_button">Finaliser l'inscription !</button>
 		</form>
 	</div>
 
