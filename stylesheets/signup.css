@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #page_title{
 	font-size: 35pt;
 	color: #0099ff;
@@ -5,6 +6,44 @@
 	margin: auto;
 	text-align: center;
 	margin-top: 40px;
+=======
+#form_in{
+	top: 80px;
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	background-color: #708090;
+	padding: 40px 0 30px 0;
+	border: 2px solid #00C8FF;
+}
+
+#signin_button{
+	height: 35px;
+	width: 85px;
+	border: none;
+	background-color: #33BC00;
+	position: relative;
+	color: white;
+	left: 200px;
+	top: 30px;
+}
+
+#signup_button{
+	height: 35px;
+	width: 85px;
+	border: none;
+	background-color: #33BC00;
+	position: relative;
+	color: white;
+	left: 445px;
+	top: 40px;
+}
+
+
+#separ_signin{
+	top: 150px;
+>>>>>>> c50ed66276912fa32366d15d64b7c96413d972ca
 }
 
 #form{
