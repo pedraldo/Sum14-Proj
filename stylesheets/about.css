@@ -1,0 +1,26 @@
+
+#h1 {
+    color: #0099ff;
+    font-family: Geneva;
+    margin: 40px auto 40px;
+    text-align: center;
+    width: 800px;
+}
+.h2 {
+    margin-bottom: 20px;
+    margin-left: 160px;
+    margin-top: 40px;
+}
+.p {
+    color: #708090;
+    font-size: 12pt;
+    margin: auto;
+    width: 1000px;
+    font-family: Lucida Grande;
+}
+#first_p {
+    color: #708090;
+    display: block;
+    margin-left: 140px;
+    width: 800px;
+}

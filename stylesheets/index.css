@@ -1,0 +1,126 @@
+body {
+    background-image: url("../images/color_party.jpg");
+    background-repeat: no-repeat;
+    background-size: 1700px 1350px;
+}
+#form_in{
+	top: 80px;
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	background-color: #708090;
+	padding: 40px 0 30px 0;
+	border: 2px solid #00C8FF;
+}
+
+#form_in2{
+	bottom: 45px;
+    margin: auto;
+    position: relative;
+    width: 500px;
+}
+
+#signin_button{
+	height: 35px;
+	width: 100px;
+	border: none;
+	background-color: #33BC00;
+	position: relative;
+	color: white;
+	left: 450px;
+	bottom: 32px;
+}
+
+#signup_button{
+	height: 40px;
+	width: 100px;
+	border: none;
+	background-color: #33BC00;
+	position: relative;
+	color: white;
+	left: 445px;
+	top: 40px;
+}
+
+
+#separ_signin{
+	top: 150px;
+}
+
+#spans{
+	bottom: 65px;
+    margin-bottom: 40px;
+    position: relative;
+    text-align: center;
+}
+
+#span1{
+	font-size: 35pt;
+	color: #EFEFEF;
+}
+
+#span2{
+	display: block;
+	font-size: 25pt;
+	margin-top: 20px;
+	color: white;
+}
+
+#about {
+    bottom: 50px;
+    float: right;
+    font-size: 13pt;
+    padding: 15px;
+    position: relative;
+    bottom: 52px;
+    width: 150px;
+}
+#about:hover {
+    background-color: #8090A0;
+}
+
+#about:hover #about_link{
+	text-decoration: none;
+	background-color: #8090A0;
+}
+
+#form_up{
+	border: 10px solid #708090;
+    bottom: 75px;
+    margin: auto auto 40px;
+    padding: 40px;
+    position: relative;
+    width: 532px;
+}
+
+
+.small_input{
+	width: 250px;
+}
+
+.big_input{
+	width: 516px;
+}
+
+#td_birth{
+	padding-left: 8px;
+}
+
+.birth_input{
+	width: 50px;
+	height: 40px;
+	display: inline-block;
+}
+
+.birth_input_year{
+	width: 60px;
+	height: 40px;
+	display: inline-block;
+}
+
+#birth_label{
+	font-size: 13pt;
+	display: inline-block;
+}
+
