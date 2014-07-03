@@ -15,10 +15,11 @@ body {
 }
 
 #form_in2{
-	bottom: 45px;
+	bottom: 100px;
     margin: auto;
     position: relative;
     width: 500px;
+    white-space: nowrap;
 }
 
 #signin_button{
@@ -28,8 +29,7 @@ body {
 	background-color: #33BC00;
 	position: relative;
 	color: white;
-	left: 450px;
-	bottom: 32px;
+	left: 10px;
 }
 
 #signup_button{
@@ -48,11 +48,18 @@ body {
 	top: 150px;
 }
 
+#container{
+	margin-top: 80px;
+	
+}
+
 #spans{
 	bottom: 65px;
-    margin-bottom: 40px;
     position: relative;
     text-align: center;
+    border: 1px dashed black;
+    width: 640px;
+    margin: 40px auto 40px auto;
 }
 
 #span1{
@@ -66,23 +73,20 @@ body {
 	margin-top: 20px;
 	color: white;
 }
-
+	
 #about {
-    bottom: 50px;
+    bottom: 35px;
     float: right;
-    font-size: 13pt;
-    padding: 15px;
+    font-size: 12pt;
+    height: 55px;
+    padding: 14px 5px;
     position: relative;
-    bottom: 52px;
-    width: 150px;
+    bottom: 33px;
+    width: 140px;
 }
 #about:hover {
     background-color: #8090A0;
-}
-
-#about:hover #about_link{
-	text-decoration: none;
-	background-color: #8090A0;
+    text-decoration: none;
 }
 
 #form_up{

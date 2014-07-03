@@ -1,0 +1,63 @@
+.new {
+    background-color: white;
+    border: 1px solid #bfbfbf;
+    margin: auto;
+    position: relative;
+    width: 800px;
+}
+.header_new {
+    height: 100px;
+    position: relative;
+}
+.date_new {
+    border-right: 1px solid #bfbfbf;
+    width: 100px;
+}
+.date_new_day {
+    color: black;
+    display: block;
+    font-size: 30pt;
+    font-weight: 400;
+    margin-top: 10px;
+    text-align: center;
+}
+.date_new_month {
+    display: block;
+    font-size: 13pt;
+    font-weight: 300;
+    margin-top: 12px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.date_new_time {
+    color: #606060;
+    display: block;
+    font-weight: 200;
+    margin-top: 12px;
+    text-align: center;
+}
+.mini_portrait_picture_new {
+    background-color: deepskyblue;
+    bottom: 15px;
+    display: inline-block;
+    height: 80px;
+    left: 120px;
+    position: absolute;
+    width: 80px;
+}
+.title_new {
+    border: 1px dashed red;
+    bottom: 15px;
+    height: 80px;
+    left: 220px;
+    position: absolute;
+    width: 550px;
+}
+.container_new {
+    border-top: 1px solid #bfbfbf;
+    height: 300px;
+}
+.footer_new {
+    border-top: 1px solid #bfbfbf;
+    height: 40px;
+}
